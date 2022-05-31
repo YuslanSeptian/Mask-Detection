@@ -1,0 +1,33 @@
+{
+    "os": "Linux-5.13.0-41-generic-x86_64-with-glibc2.29",
+    "python": "3.8.10",
+    "heartbeatAt": "2022-05-24T13:23:00.014675",
+    "startedAt": "2022-05-24T13:22:55.152046",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "--img",
+        "416",
+        "--batch",
+        "16",
+        "--epochs",
+        "100",
+        "--data",
+        "/home/yuslan/Mask-Detection/data/dataset_mask_new/data.yaml",
+        "--weights",
+        "yolov5s.pt"
+    ],
+    "state": "running",
+    "program": "train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/ultralytics/yolov5.git",
+        "commit": "cee5959c74336ea6a8b73e6ee99c6a5f45d64a4d"
+    },
+    "email": null,
+    "root": "/home/yuslan/Mask-Detection",
+    "host": "pay-26",
+    "username": "yuslan",
+    "executable": "/usr/bin/python3"
+}

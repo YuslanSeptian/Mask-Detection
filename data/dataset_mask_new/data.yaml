@@ -1,0 +1,6 @@
+path: /home/yuslan/Mask-Detection/data/dataset_mask_new #dataset root dir
+train: /home/yuslan/Mask-Detection/data/dataset_mask_new/train/images
+val: /home/yuslan/Mask-Detection/data/dataset_mask_new/valid/images
+
+nc: 3
+names: ['mask_weared_incorrect', 'with_mask', 'without_mask']
