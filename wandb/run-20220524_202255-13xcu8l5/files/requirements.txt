@@ -119,7 +119,7 @@ pycrypto==2.6.1
 pycups==1.9.73
 pygobject==3.36.0
 pyinotify==0.9.6
-pyjwt==1.7.1
+pyjwt==2.4.0
 pymacaroons==0.13.0
 pynacl==1.3.0
 pyopenssl==21.0.0
