@@ -108,7 +108,7 @@ pip==22.1.1
 platformdirs==2.4.1
 plyer==2.0.0
 promise==2.3
-protobuf==3.19.1
+protobuf==3.19.5
 psutil==5.9.0
 pyasn1-modules==0.2.8
 pyasn1==0.4.8
