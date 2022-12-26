@@ -187,7 +187,7 @@ wandb==0.12.9
 webdriverdownloader==1.1.0.3
 websockets==8.1
 werkzeug==2.0.2
-wheel==0.34.2
+wheel==0.38.1
 wrapt==1.13.3
 wsproto==0.15.0
 xkit==0.0.0
